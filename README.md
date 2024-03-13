@@ -56,9 +56,7 @@ On the satisfaction scale, 1 represents "very dissatisfied," 2 stands for "dissa
 
 - Insights from the analysis
 
-- This graphical representation provides insights into employee demographics and attrition data. 
-
-- Major KPIs at a glance
+Major KPIs at a glance
 
 1. Total Employees: there are 1470 employees in the dataset and 1,233 are active employees.
 2. Attrition Count: 237 employees have left the company.
