@@ -65,6 +65,7 @@ On the satisfaction scale, 1 represents "very dissatisfied," 2 stands for "dissa
 5. Average Hourly Rate: Employees earn an average hourly rate of $66.
 
 - Demographics
-
+  
+![page1](page1.png)
 
 ## Recommendations
