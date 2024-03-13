@@ -54,11 +54,11 @@ On the satisfaction scale, 1 represents "very dissatisfied," 2 stands for "dissa
 
 ## Results and findings
 
--Insights from the analysis
+- Insights from the analysis
 
--This graphical representation provides insights into employee demographics and attrition data. 
+- This graphical representation provides insights into employee demographics and attrition data. 
 
--Major KPIs at a glance
+- Major KPIs at a glance
 
 1. Total Employees: there are 1470 employees in the dataset and 1,233 are active employees.
 2. Attrition Count: 237 employees have left the company.
@@ -66,7 +66,7 @@ On the satisfaction scale, 1 represents "very dissatisfied," 2 stands for "dissa
 4. Average Monthly Income: The average monthly income for employees is $6,503.
 5. Average Hourly Rate: Employees earn an average hourly rate of $66.
 
--Demographics
+- Demographics
 
 
 ## Recommendations
