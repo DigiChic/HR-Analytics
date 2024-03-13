@@ -7,7 +7,7 @@ This is an analysis of employee statistics for an organisation
 - [Data Sources](#data-sources)
 - [Tools for analysis](#tools-for-analysis)
 - [Data Cleaning, Preparation and Transformation](#data-cleaning-preparation-and-transformation)
-- [Results and findings](#results-and=findings)
+- [Results and findings](#results-and-findings)
 - [Recommendations](#recommendations)
 
 ## Project overview
