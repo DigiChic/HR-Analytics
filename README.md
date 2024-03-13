@@ -7,7 +7,7 @@ This is an analysis of employee statistics for an organisation
 - [Data Sources](#data-sources)
 - [Tools for analysis](#tools-for-analysis)
 - [Data Cleaning, Preparation and Transformation](#data-cleaning-preparation-and-transformation)
-- [Results and Findings](#results-and=findings)
+- [Results and findings](#results-and=findings)
 - [Recommendations](#recommendations)
 
 ## Project overview
@@ -23,6 +23,9 @@ Turnover Analysis I-this provides insights into employee attrition by job roles,
 
 Turnover Analysis II-this features attrition by monthly income, overtime, etc.
 
+## Data Sources
+
+## Tools for analysis
 
 ## Data Cleaning, Preparation and Transformation
 
@@ -39,3 +42,8 @@ The Performance Rating column with values 3 and 4 were grouped to "Low" and "Hig
 Job, environmental and relationship satisfaction is rated on a scale ranging from 1 to 4. 
 
 On the satisfaction scale, 1 represents "very dissatisfied," 2 stands for "dissatisfied," 3 signifies "satisfied," and 4 indicates "very satisfied." 
+
+## Results and findings
+
+
+## Recommendations
