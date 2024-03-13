@@ -43,6 +43,7 @@ Job, environmental and relationship satisfaction is rated on a scale ranging fro
 
 On the satisfaction scale, 1 represents "very dissatisfied," 2 stands for "dissatisfied," 3 signifies "satisfied," and 4 indicates "very satisfied." 
 
+
 ## Results and findings
 
 
