@@ -145,5 +145,35 @@ Major KPIs at a glance
 
 ![page4](page4.png)
 
+### Monthly Income and Attrition by Job Role:
+
+- The line graph illustrates the relationship between monthly income and attrition for various job roles.
+
+- It appears that higher monthly income is associated with lower attrition, especially for roles like Sales Executive, Manager and Research Director.
+
+### Sum of Attrition Count by Overtime:
+
+- The bar graph in the top middle section compares attrition counts based on overtime status ("Yes" or "No").
+
+- Interestingly, the attrition count is higher for employees who work overtime.
+
+### Total Attrition by Performance Rating:
+
+- The pie chart on the top right represents the distribution of attrition based on performance ratings.
+
+- Approximately 73.39% of attrition occurs among employees with a high performance rating.
+
+### Total Attrition by Job Level:
+
+- The bar graph in the bottom middle section displays attrition counts across different job levels.
+
+- Entry-level positions experience the highest attrition, followed by junior associate roles.
+
+### Total Attrition by Age Groups and Gender:
+
+- The bar graph in the bottom right corner shows attrition by age groups and gender.
+
+- Amongst all the age groups,male attrition is higher.
+
 
 ## Recommendations
