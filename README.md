@@ -95,5 +95,10 @@ Major KPIs at a glance
 
   and satisafcation metrics.
 
+- Employee wellness
+
+![page2](page2.png)
+
+
 
 ## Recommendations
