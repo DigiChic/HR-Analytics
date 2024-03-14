@@ -64,7 +64,8 @@ Major KPIs at a glance
 3. Attrition Rate: The attrition rate is approximately 16%.
 4. Average Monthly Income: The average monthly income for employees is $6,503.
 5. Average Hourly Rate: Employees earn an average hourly rate of $66.
-
+6. There are 3 Departments with 9 different job roles
+   
 ### DEMOGRAPHICS
   
 ![page1](page1.png)
@@ -127,6 +128,22 @@ Major KPIs at a glance
 ### TURNOVER ANALYSIS I
 
 ![page3](page3.png)
+
+- Job roles include Laboratory Technician, Sales Executive, Research Scientist, Sales Representative, Human Resources,
+
+ Manufacturing Director, Healthcare Representative, Manager, and Research Director.
+
+- Male attrition is higher in all job roles except Human Resources.
+
+- The donut chart showing Total Attrition by Department showing highest attrition in Research & Development (38.62%), Sales (55.12%), and Human Resources (5.26%).
+
+-  The stacked bar chart showing attrition count by Business Travel and Gender indicates that the men who rarely travel have a higher attrition rate than others 
+
+- The table listing the sum of attrition for various job roles indicates that Sales representatives have the highest attrition
+
+- The bar graph at the bottom right corner displaying the number of employees leaving their jobs based on how many years they’ve been in their current role.
+
+- Those employed within the first 3 years have a higher attrition rate
 
 
 ## Recommendations
