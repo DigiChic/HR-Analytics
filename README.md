@@ -129,21 +129,17 @@ Major KPIs at a glance
 
 ![page3](page3.png)
 
-- Job roles include Laboratory Technician, Sales Executive, Research Scientist, Sales Representative, Human Resources,
-
- Manufacturing Director, Healthcare Representative, Manager, and Research Director.
-
-- Male attrition is higher in all job roles except Human Resources.
+- For the different job roles attrition is highest amonsgst Laboratory Technicians and lowest in Research Director. Also male attrition is higher in almost all job roles 
 
 - The donut chart showing Total Attrition by Department showing highest attrition in Research & Development (38.62%), Sales (55.12%), and Human Resources (5.26%).
 
--  The stacked bar chart showing attrition count by Business Travel and Gender indicates that the men who rarely travel have a higher attrition rate than others 
+- The stacked bar chart showing attrition count by Business Travel and Gender indicates that the men who rarely travel have a higher attrition rate than others 
 
 - The table listing the sum of attrition for various job roles indicates that Sales representatives have the highest attrition
 
 - The bar graph at the bottom right corner displaying the number of employees leaving their jobs based on how many years they’ve been in their current role.
 
-- Those employed within the first 3 years have a higher attrition rate
+- Those employed within the first 3 years have a higher attrition rate than those who have stayed significnatly longer with the organization
 
 
 ## Recommendations
