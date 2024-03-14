@@ -69,4 +69,29 @@ Major KPIs at a glance
   
 ![page1](page1.png)
 
+### Age Groups:
+
+- The 31-45 age group has the most employees but not the highest attrition rate.
+  
+- The 18-30 age group has a higher attrition rate relative to its total number.
+
+## Distance from Home:
+
+- Employees living near the workplace have higher attrition compared to those living far away.
+
+### Marital Status:
+ 
+- Single employees have a higher attrition rate compared to married or divorced individuals.
+
+##Education Field:
+
+- Life Sciences has the highest number of employees, but their attrition rate is relatively low.
+  
+- Technical Degree employees have the highest attrition rate.
+
+### Gender:
+
+- There are significantly more male employees and the attrition rates are visibly differ across age groups, departments, job roles and satisafcation metrics.
+
+
 ## Recommendations
