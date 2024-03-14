@@ -83,7 +83,7 @@ Major KPIs at a glance
  
 - Single employees have a higher attrition rate compared to married or divorced individuals.
 
-##Education Field:
+### Education Field:
 
 - Life Sciences has the highest number of employees, but their attrition rate is relatively low.
   
@@ -91,7 +91,7 @@ Major KPIs at a glance
 
 ### Gender:
 
-- There are significantly more male employees and the attrition rates are visibly differ across age groups, departments, job roles and satisafcation metrics.
+- There are significantly more male employees and the attrition rates visibly differ across age groups, departments, job roles and satisafcation metrics.
 
 
 ## Recommendations
