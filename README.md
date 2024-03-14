@@ -190,7 +190,7 @@ Major KPIs at a glance
 
 6.	Focus on Technical Degree Holders: Employees with technical degrees have a higher attrition rate. Investigate the reasons behind this trend and consider targeted retention strategies for this group. Consider initiatives to retain technical degree holders, such as mentorship programs, skill development, and career growth opportunities.
 
-7.	Work-Life Balance: Employees who rate their work-life balance as "bad" also exhibit higher attrition. Improving work-life balance could help reduce turnover. Prioritize work-life balance. Encourage flexible work arrangements, promote wellness programs, and ensure workload is manageable. A balanced life leads to happier and healthier employees.
+7.	Work-Life Balance: Employees who rate their work-life balance as "bad" also exhibit higher attrition. Improving work-life balance could help reduce turnover. Encourage flexible work arrangements, promote wellness programs, and ensure workload is manageable. A balanced life leads to happier and healthier employees.
 
 8.	Overall demographics: address attrition among younger employees (18-30) by providing growth prospects and a positive work environment. Understand why single employees leave more frequently and tailor retention efforts accordingly. Investigate the reasons behind higher attrition among male employees. Also, conduct exit interviews to understand attrition reasons and address any underlying issues.
 
