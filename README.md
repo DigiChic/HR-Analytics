@@ -94,6 +94,7 @@ Major KPIs at a glance
 - There are significantly more male employees and the attrition rates visibly differ across age groups, departments, job roles
 
   and satisafcation metrics.
+  
 
 - Employee wellness
 
