@@ -11,9 +11,9 @@ This is an analysis of employee statistics for an organisation
 - [Recommendations](#recommendations)
 
 ## Project overview
-This project is to tell a story on attrition based on employee statistics and analyze various metrics related to the workforce, 
+This project is to tell a story on attrition based on employee statistics and analyze various metrics related to the 
 
-such as employee attrition, performance rating, job satisfaction, etc. 
+workforce, such as employee attrition, performance rating, job satisfaction, etc. 
 
 The project insight is divided into 4 namely;
 
