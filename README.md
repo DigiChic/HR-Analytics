@@ -2,7 +2,7 @@
 
 This is an analysis of employee statistics for an organisation
 
-**Documentation Outline**
+**DOCUMENTATION OUTLINE**
 - [Project overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools for analysis](#tools-for-analysis)
