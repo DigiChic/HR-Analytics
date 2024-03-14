@@ -155,7 +155,7 @@ Major KPIs at a glance
 
 - The bar graph in the top middle section compares attrition counts based on overtime status ("Yes" or "No").
 
-- Interestingly, the attrition count is higher for employees who work overtime.
+- Interestingly, the attrition count is higher for employees who work overtime even if it means making more money.
 
 ### Total Attrition by Performance Rating:
 
@@ -177,3 +177,20 @@ Major KPIs at a glance
 
 
 ## Recommendations
+
+1.	Environment Satisfaction: on improving environment satisfaction, address any factors contributing to dissatisfaction and create a positive work atmosphere. Consider employee feedback and implement changes accordingly.
+
+2.	Performance Rating: recognize and reward high performers. Provide growth opportunities and training for those with low performance ratings. Regular performance evaluations can help identify areas for improvement.
+
+3.	Job Satisfaction: invest in initiatives that boost job satisfaction. Encourage open communication, recognize achievements, and ensure employees feel valued. Address any concerns promptly.
+
+4.	Job Involvement: increase job involvement by providing challenging tasks, promoting teamwork, and fostering a sense of ownership. Engaged employees are more likely to stay and contribute positively.
+
+5.	Relationship Satisfaction: foster positive relationships among colleagues. Organize team-building activities, encourage collaboration, and address any conflicts promptly. Strong relationships contribute to overall well-being.
+
+6.	Focus on Technical Degree Holders: Employees with technical degrees have a higher attrition rate. Investigate the reasons behind this trend and consider targeted retention strategies for this group. Consider initiatives to retain technical degree holders, such as mentorship programs, skill development, and career growth opportunities.
+
+7.	Work-Life Balance: Employees who rate their work-life balance as "bad" also exhibit higher attrition. Improving work-life balance could help reduce turnover. Prioritize work-life balance. Encourage flexible work arrangements, promote wellness programs, and ensure workload is manageable. A balanced life leads to happier and healthier employees.
+
+8.	Overall demographics: address attrition among younger employees (18-30) by providing growth prospects and a positive work environment. Understand why single employees leave more frequently and tailor retention efforts accordingly. Investigate the reasons behind higher attrition among male employees. Also, conduct exit interviews to understand attrition reasons and address any underlying issues.
+
