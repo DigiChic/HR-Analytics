@@ -15,15 +15,16 @@ This project is to tell a story on attrition based on employee statistics and an
 
 workforce, such as employee attrition, performance rating, job satisfaction, etc. 
 
-The project insight is divided into 4 namely;
 
-Demographics- this summarizes employee statistics such as age group, gender, marital status, etc, 
+### The project insight is divided into 4 namely;
 
-Employee wellness provides insights to performance ratings, job satisfactions, work life balance.
+- Demographics- this summarizes employee statistics such as age group, gender, marital status, etc, 
 
-Turnover Analysis I shows employee attrition by job roles, departments, years in current role, etc.
+- Employee wellness provides insights to performance ratings, job satisfactions, work life balance.
 
-Turnover Analysis II shows attrition by monthly income, overtime, etc.
+- Turnover Analysis I shows employee attrition by job roles, departments, years in current role, etc.
+
+- Turnover Analysis II shows attrition by monthly income, overtime, etc.
 
 ## Data Sources
 
@@ -37,19 +38,19 @@ Power BI [You can find it here](https://powerbi.microsoft.com/en-us/downloads/)
 
 The data was checked for blanks and duplicates.
 
-I went on to create data groups to aggregate certain values together so as to form meaningful subsets.
+- I went on to create data groups to aggregate certain values together so as to form meaningful subsets.
 
-For Work life balance, I created groups using lists and Grouped 1 as Bad, 2 as Average, 3 as Good and 4 as Excellent."
+- For Work life balance, I created groups using lists and Grouped 1 as Bad, 2 as Average, 3 as Good and 4 as Excellent."
 
-Job involvement was grouped as Very low, Low, Moderate, High for values 1, 2, 3 and 4 respectively
+- Job involvement was grouped as Very low, Low, Moderate, High for values 1, 2, 3 and 4 respectively
 
-For distance from home, 1-10 is considered near, 10-20 is considered far and 20 – 30 is considered very far. 
+- For distance from home, 1-10 is considered near, 10-20 is considered far and 20 – 30 is considered very far. 
 
-The Performance Rating column with values 3 and 4 were grouped to "Low" and "High" respectively
+- The Performance Rating column with values 3 and 4 were grouped to "Low" and "High" respectively
 
-Job, environmental and relationship satisfaction was rated on a scale ranging of 1 to 4. 
+- Job, environmental and relationship satisfaction was rated on a scale ranging of 1 to 4. 
 
-On the satisfaction scale, 1 represents "very dissatisfied," 2 stands for "dissatisfied," 3 signifies "satisfied," and 4 indicates "very satisfied." 
+- On the satisfaction scale, 1 represents "very dissatisfied," 2 stands for "dissatisfied," 3 signifies "satisfied," and 4 indicates "very satisfied." 
 
 
 ## Results and findings
