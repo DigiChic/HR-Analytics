@@ -124,6 +124,9 @@ Major KPIs at a glance
 
 - Work life balance is categorized as excellent, good, average, or bad. Employees with “Good” work-life balance experience higher attrition.
 
+### TURNOVER ANALYSIS I
+
+![page3](page3.png)
 
 
 ## Recommendations
