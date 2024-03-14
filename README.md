@@ -91,7 +91,9 @@ Major KPIs at a glance
 
 ### Gender:
 
-- There are significantly more male employees and the attrition rates visibly differ across age groups, departments, job roles and satisafcation metrics.
+- There are significantly more male employees and the attrition rates visibly differ across age groups, departments, job roles
+
+  and satisafcation metrics.
 
 
 ## Recommendations
