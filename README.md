@@ -119,7 +119,7 @@ Major KPIs at a glance
 
 ### Relationship Satisfaction: 
 
-- Attrition is observed across different relationship satisfaction levels with satisfied being the highest at 71employees
+- Attrition is observed across different relationship satisfaction levels with satisfied being the highest at 71 employees
 
 ### Work-Life Balance: 
 
@@ -140,6 +140,10 @@ Major KPIs at a glance
 - The bar graph at the bottom right corner displaying the number of employees leaving their jobs based on how many years they’ve been in their current role.
 
 - Those employed within the first 3 years have a higher attrition rate than those who have stayed significnatly longer with the organization
+
+### TUNROVER ANALYSIS II
+
+![page4](page4.png)
 
 
 ## Recommendations
