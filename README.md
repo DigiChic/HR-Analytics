@@ -131,9 +131,9 @@ Major KPIs at a glance
 
 - For the different job roles attrition is highest amonsgst Laboratory Technicians and lowest in Research Director. Also male attrition is higher in almost all job roles 
 
-- The donut chart showing Total Attrition by Department showing highest attrition in Research & Development (38.62%), Sales (55.12%), and Human Resources (5.26%).
+- The donut chart shows Total Attrition by Department wiht highest attrition in Research & Development
 
-- The stacked bar chart showing attrition count by Business Travel and Gender indicates that the men who rarely travel have a higher attrition rate than others 
+- The stacked bar chart showing attrition count by Business Travel and Gender indicates that the employees rarely travel have a higher attrition rate than others 
 
 - The table listing the sum of attrition for various job roles indicates that Sales representatives have the highest attrition
 
