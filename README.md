@@ -75,7 +75,7 @@ Major KPIs at a glance
   
 - The 18-30 age group has a higher attrition rate relative to its total number.
 
-## Distance from Home:
+### Distance from Home:
 
 - Employees living near the workplace have higher attrition compared to those living far away.
 
@@ -99,6 +99,30 @@ Major KPIs at a glance
 ### EMPLOYEE WELLNESS
 
 ![page2](page2.png)
+
+### Environment Satisfaction: 
+
+- The highest attrition occurs among employees who are very dissatisfied (72) and dissatisfied (43).
+
+### Performance Rating: 
+
+- Employees with low performance ratings (200) have a higher attrition rate compared to those with high performance ratings (37).
+
+### Job Satisfaction: 
+
+- Very dissatisfied employees (66) and satisfied employees (73) show significant attrition.
+
+### Job Involvement: 
+
+- Employees with moderate (125) and low (71) job involvement levels experience higher attrition compared to others
+
+### Relationship Satisfaction: 
+
+- Attrition is observed across different relationship satisfaction levels with satisfied being the highest at 71employees
+
+### Work-Life Balance: 
+
+- Work life balance is categorized as excellent, good, average, or bad. Employees with “Good” work-life balance experience higher attrition.
 
 
 
