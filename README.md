@@ -65,7 +65,7 @@ Major KPIs at a glance
 4. Average Monthly Income: The average monthly income for employees is $6,503.
 5. Average Hourly Rate: Employees earn an average hourly rate of $66.
 
-- Demographics
+### DEMOGRAPHICS
   
 ![page1](page1.png)
 
@@ -96,7 +96,7 @@ Major KPIs at a glance
   and satisafcation metrics.
   
 
-- Employee wellness
+### EMPLOYEE WELLNESS
 
 ![page2](page2.png)
 
